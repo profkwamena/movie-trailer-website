@@ -1,0 +1,1 @@
+To run the movie trailer website, open the entertainment center.py file then click run module in the python gui.
